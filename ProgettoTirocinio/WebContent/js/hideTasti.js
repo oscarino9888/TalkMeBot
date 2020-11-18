@@ -1,0 +1,1 @@
+$("#accetta").css("visibility","hidden");
